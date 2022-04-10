@@ -18,5 +18,25 @@
     <ClCompile Include="Entry.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Operations.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Orders.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="File_Operations.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Operations.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Errors.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="File_Operations.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
